@@ -417,3 +417,9 @@ To use a model other than PSPNet in this tutorial, you need to:
 3. **Update the Code**: Ensure that the code references the new configuration file and pre-trained weights. Adjust any model-specific parameters as needed.
 
 By following these steps, you can seamlessly switch to different models within the MMSegmentation framework. 🚀
+
+
+## About This Tutorial
+
+This tutorial is based on **MMSegmentation** by OpenMMLab, a powerful open-source toolbox for semantic segmentation. You can find their official repository here: [MMSegmentation GitHub](https://github.com/open-mmlab/mmsegmentation) and their official tutorial here: [MMSegmentation Tutorial](https://github.com/open-mmlab/mmsegmentation/blob/master/demo/MMSegmentation_Tutorial.ipynb).
+
